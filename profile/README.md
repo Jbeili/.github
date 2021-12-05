@@ -1,5 +1,7 @@
 ## FairFunClientz
 
+<img src="https://raw.githubusercontent.com/FairFunClientz/.github/main/profile/FFC_banner.png">
+
 <details>
  <summary>...Who are we?</summary>
  
@@ -13,6 +15,7 @@
 > We make hack clients for minecraft 1.12.2
 
 </details>
+
 
 <!--
 
